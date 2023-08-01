@@ -1,6 +1,8 @@
 # Santader Dev Week 2023
 Java RESTful API criada para a Santander Dev Week
 
+link de produção: https://santader-dev-week-2023-production.up.railway.app/swagger-ui/index.html#/
+
 ## Principais Tecnologias
  - **Java 17**: Foi utilizada a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
  - **Spring Boot 3**: Trabalhei com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
